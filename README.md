@@ -2,14 +2,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&speed=50&pause=3000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=30&lines=Building+intelligent+systems...;Building+intelligent+systems+where+AI%2FML+meets+production...;Building+intelligent+systems+where+AI%2FML+meets+production+reliability...!" alt="Typing SVG" />
   <br>
-  <img src="7x.gif" alt="System Visualization" height="200" />
+  <img src="assets/7x.gif" alt="System Visualization" height="200" />
   <br>
 </div>
 <br>
 <br>
 <!-- terminal photo-->
 <p align="center">
-  <img src="./outpu2t.gif" alt="Terminal Portfolio" width="700">
+  <img src="assets/outpu2t.gif" alt="Terminal Portfolio" width="700">
 </p>
 
 <!-- collab section -->
@@ -22,7 +22,7 @@
 
 <!-- Fun GIF above socials -->
 <div align="center">
-  <img src="g33.gif" alt="Social GIF" height="120" style="margin-bottom: 24px;" /><br>
+  <img src="assets/g33.gif" alt="Social GIF" height="120" style="margin-bottom: 24px;" /><br>
 
   <!-- All social icons in a single row with gap -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 46px; margin-top: 10px;">
@@ -49,12 +49,12 @@
 <!--Stat section -->
 <div align="center" width="30%" style="display: inline-block; vertical-align: top;">
   <!-- GIF above stats -->
-  <img src="g44.gif" alt="Right GIF" height="80" />
+  <img src="assets/g44.gif" alt="Right GIF" height="80" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajatsingh94&theme=github-compact&area=true&hide_border=true&color=ffffff&line=888888&point=888888&bg_color=00000000" width="200" alt="Activity Graph" />
   <!-- Stats image -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajatsingh94&theme=dark&hide_border=true&background=00000000&stroke=888888&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=666666" width="200" alt="Streak Stats" />
   <!-- GIF above stats -->
-  <img src="g11.gif" alt="Right GIF" height="80" />
+  <img src="assets/g11.gif" alt="Right GIF" height="80" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatsingh94&layout=compact&hide_border=true&theme=dark&bg_color=00000000&text_color=ffffff" width="150" alt="Top Languages" />
 </div>
 <br>
