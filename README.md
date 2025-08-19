@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./terminal.gif" alt="Terminal Portfolio" width="700">
+  <img src="./outpu2t.gif" alt="Terminal Portfolio" width="700">
 </p>
 
 <p align="center">
