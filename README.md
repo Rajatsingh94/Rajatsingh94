@@ -1,43 +1,80 @@
+<!--first Gig-->
 <div align="center">
-  <img src="7x.gif" alt="System Visualization" height="150" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&speed=50&pause=3000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=30&lines=Building+intelligent+systems...;Building+intelligent+systems+where+AI%2FML+meets+production...;Building+intelligent+systems+where+AI%2FML+meets+production+reliability...!" alt="Typing SVG" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&speed=50&pause=3000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=30&lines=Building+inteligent+systems...;Building+intelligent+systems+where+AI%2FML+meets+producton...;Building+intelligent+systems+where+AI%2FML+meets+production+reliability...!" alt="Typing SVG" />
+  <img src="7x.gif" alt="System Visualization" height="200" />
+  <br>
 </div>
- 
- <img src="g11.gif" alt="System Visualization" height="150" />
-
+<br>
+<br>
+<!-- terminal photo-->
 <p align="center">
   <img src="./outpu2t.gif" alt="Terminal Portfolio" width="700">
 </p>
 
-<h3 align="center">Let's build something amazing together</h3>
+<!-- collab section -->
+<!-- collab social section -->
 
 <div align="center">
-  <div align="left" style="display: inline-block; width: 45%;">
-    <p>
-      <a href="https://github.com/Rajatsingh94" target="_blank" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="20" width="30" />
-      </a>
-      &nbsp;&nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/rajatsingh94" target="_blank" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" />
-      </a>
-      &nbsp;&nbsp;&nbsp;
-      <a href="https://leetcode.com/Rajatsingh94" target="_blank" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="20" width="30" />
-      </a>
-      &nbsp;&nbsp;&nbsp;
-      <a href="mailto:rajat94.singh@gmail.com" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="20" width="30" />
-      </a>
-    </p>
-  </div>
-  <div align="right" style="display: inline-block; width: 45%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajatsingh94&theme=dark&hide_border=true&background=00000000&stroke=888888&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=666666" width="350">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=16&duration=3000&pause=3000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=48&lines=If+you%E2%80%99re+interested+in+collaborating...;Hit+my+socials+below+and+let's+connect!" alt="Chalk Header" />
+</p>
+
+<!-- Fun GIF above socials -->
+<div align="center">
+  <img src="g33.gif" alt="Social GIF" height="120" style="margin-bottom: 24px;" /><br>
+
+  <!-- All social icons in a single row with gap -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 46px; margin-top: 10px;">
+    <a href="https://github.com/Rajatsingh94" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" style="background: #222; border-radius: 40%; padding: 10px; box-shadow: 0 2px 8px #0002;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/rajatsingh94" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="44" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:rajat94.singh@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="36" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://discord.com/users/junkee0223" target="_blank">
+      <img src="https://cdn.simpleicons.org/discord/5865f2" alt="Discord" height="40" />
+    </a>
   </div>
 </div>
 
+<br>
+<br>
+<!--Stat section -->
+<div align="center" width="30%" style="display: inline-block; vertical-align: top;">
+  <!-- GIF above stats -->
+  <img src="g44.gif" alt="Right GIF" height="80" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajatsingh94&theme=github-compact&area=true&hide_border=true&color=ffffff&line=888888&point=888888&bg_color=00000000" width="200" alt="Activity Graph" />
+  <!-- Stats image -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajatsingh94&theme=dark&hide_border=true&background=00000000&stroke=888888&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=666666" width="200" alt="Streak Stats" />
+  <!-- GIF above stats -->
+  <img src="g11.gif" alt="Right GIF" height="80" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatsingh94&layout=compact&hide_border=true&theme=dark&bg_color=00000000&text_color=ffffff" width="150" alt="Top Languages" />
+</div>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Rajatsingh94&style=flat-square&color=888888&label=visits" alt="visitors" />
+<br>
+
+<!-- Interests Section -->
+<div align="center" style="padding: 32px 0;">
+  <img src="https://img.shields.io/badge/Mythology-FFA726?style=for-the-badge&logo=bookstack&logoColor=white" alt="Mythology"/>
+  <img src="https://img.shields.io/badge/Autonomous%20Systems-FF7043?style=for-the-badge&logo=autoprefixer&logoColor=white" alt="Autonomous Systems"/>
+  <img src="https://img.shields.io/badge/History-FFD600?style=for-the-badge&logo=bookstack&logoColor=white" alt="History"/>
+  <img src="https://img.shields.io/badge/Universe-42A5F5?style=for-the-badge&logo=nasa&logoColor=white" alt="Universe"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AC%20Science-66BB6A?style=for-the-badge&logoColor=white" alt="Science"/>
+  <img src="https://img.shields.io/badge/Tech-E53935?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Tech"/>
+  <img src="https://img.shields.io/badge/Automobile-29B6F6?style=for-the-badge&logo=tesla&logoColor=white" alt="Automobile"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%B5%20Music-8D5EFF?style=for-the-badge&logo=spotify&logoColor=white" alt="Music"/>
+  <img src="https://img.shields.io/badge/Smart%20Systems-AB47BC?style=for-the-badge&logo=android&logoColor=white" alt="Smart Systems"/>
+</div>
+
+<!--footer wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,25:ffffff,50:f5f5f5,75:ffffff,100:f0f0f0&height=60&section=footer&animation=fadeIn" width="100%">
 </div>
-
