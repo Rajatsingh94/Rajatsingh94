@@ -1,39 +1,24 @@
-<!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Minimal loop animation" width="120">
-</p>
-
-<!-- Name below the GIF -->
-<h1 align="center" style="margin-top: 0;">Rajat Singh</h1>
-
-<!-- Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/your-github" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/your-github?label=Follow&style=social">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-me-1f2937?style=flat&logo=gmail&logoColor=white">
-  </a>
+  <img src="./terminal.gif" alt="Terminal Portfolio" width="700">
 </p>
 
 <p align="center">
-  <sub>Minimalist engineer crafting reliable AI systems and delightful developer experiences.</sub>
+  <a href="https://github.com/Rajatsingh94"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rajatsingh94"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  <a href="mailto:rajat94.singh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajatsingh94&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&text_color=777&title_color=fff&icon_color=fff" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajatsingh94&theme=dark&hide_border=true&background=00000000&stroke=777&ring=fff&fire=fff&currStreakLabel=fff" width="49%">
 </p>
 
 ---
 
-<div align="center">
-  <h3>About</h3>
-</div>
-
-<!-- Terminal Animation -->
 <p align="center">
-  <img src="./terminal.svg" width="800" height="500" alt="Terminal">
-</p>
-
-<p align="center">
-  <sub>Hi, I build practical AI features with a lean stack and strong tests.</sub>
+  <sub>Building intelligent systems where AI/ML meets production reliability.</sub>
 </p>
