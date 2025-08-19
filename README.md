@@ -3,6 +3,8 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&speed=50&pause=3000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=30&lines=Building+inteligent+systems...;Building+intelligent+systems+where+AI%2FML+meets+producton...;Building+intelligent+systems+where+AI%2FML+meets+production+reliability...!" alt="Typing SVG" />
 </div>
+ 
+ <img src="g11.gif" alt="System Visualization" height="150" />
 
 <p align="center">
   <img src="./outpu2t.gif" alt="Terminal Portfolio" width="700">
