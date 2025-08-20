@@ -72,12 +72,12 @@
     </a>
     <!-- Lambda -->
     <a href="https://aws.amazon.com/lambda/" rel="noreferrer">
-  <img src="./assets/aws_lambda_white.png" alt="AWS Lambda" width="40" height="40" />
-</a>
+      <img src="./assets/aws-lambda.svg" alt="AWS Lambda" width="40" height="40" />
+    </a>
 <!--AWS--->
-<a href="https://aws.amazon.com/" rel="noreferrer">
-  <img src="./assets/aws_white.png" alt="AWS" width="40" height="40" />
-</a>
+    <a href="https://aws.amazon.com/" rel="noreferrer">
+      <img src="./assets/aws.png" alt="AWS" width="40" height="40" />
+    </a>
     <!-- GCP -->
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" style="margin:6px;"/>
@@ -96,7 +96,7 @@
     </a>
     <!-- REST API (tabler icon) -->
     <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/RestApi.svg" alt="REST API" width="40" height="40" style="margin:6px; background:#fff; border-radius:6px;"/>
+     <img src="./assets/Rest API PNG.png" alt="AWS" width="70" height="50" />
     </a>
     <!-- Apache Kafka -->
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
