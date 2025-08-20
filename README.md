@@ -56,12 +56,12 @@
     </a>
     <!-- Hugging Face -->
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="Hugging Face" width="40" height="40" style="margin:6px; border-radius:8px; background:#fff; padding:2px;" />
-</a>
+      <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="Hugging Face" width="40" height="40" style="margin:6px; border-radius:8px; background:#fff; padding:2px;" />
+    </a>
     <!-- LangChain (using LC logo) -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="/assets/chain.png" alt="Chain Icon" width="40" height="40" style="margin:6px; background:#ffff; border-radius:8px; padding:6px;">
-  </a>
+     <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+      <img src="/assets/chain_white.png" alt="Chain Icon" width="40" height="40">
+    </a>
     <!-- Vercel -->
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="margin:6px;"/>
