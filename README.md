@@ -15,7 +15,7 @@
 <!-- ====== Languages and Tools Section (Fixed) ====== -->
 <div align="center" style="margin: 18px 0 32px 0;">
  <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=18&duration=2500&pause=800&color=FF6600&center=true&vCenter=true&width=480&lines=⚙️+tools%2Flibs." alt="tools/libs." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=16&duration=4500&pause=1000&color=FFFF&center=true&vCenter=true&width=480&lines=⚙️+tools%2Flibs." alt="tools/libs." />
 </p>
   <p>
     <!-- Python -->
