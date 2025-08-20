@@ -63,9 +63,9 @@
       <img src="/assets/chain.png" alt="Chain Icon" width="50" height="40">
     </a>
     <!-- Vercel -->
-  <a href="https://vercel.com/" rel="noreferrer">
-  <img src="./assets/vercel.jpeg" alt="Vercel" width="90" height="70" />
-</a>
+    <a href="https://vercel.com/" rel="noreferrer">
+      <img src="./assets/vercel.jpeg" alt="Vercel" width="90" height="70" />
+    </a>
     <!-- SageMaker -->
     <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
      <img src="./assets/sage.webp" alt="Vercel" width="60" height="60" />
@@ -74,7 +74,7 @@
     <a href="https://aws.amazon.com/lambda/" rel="noreferrer">
       <img src="./assets/aws-lambda.svg" alt="AWS Lambda" width="40" height="40" />
     </a>
-<!--AWS--->
+    <!--AWS--->
     <a href="https://aws.amazon.com/" rel="noreferrer">
       <img src="./assets/aws.png" alt="AWS" width="40" height="40" />
     </a>
@@ -96,11 +96,11 @@
     </a>
     <!-- REST API (tabler icon) -->
     <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-     <img src="./assets/Rest API PNG.png" alt="AWS" width="70" height="50" />
+     <img src="./assets/rest.jpg" alt="API" width="70" height="50" />
     </a>
     <!-- Apache Kafka -->
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" alt="Kafka" width="40" height="40" style="margin:6px; background:#fff; border-radius:6px;"/>
+      <img src="./assets/kafka.png" alt="API" width="70" height="50" />
     </a>
     <!-- Unix/Linux -->
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
