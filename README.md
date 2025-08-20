@@ -60,12 +60,12 @@
     </a>
     <!-- LangChain (using LC logo) -->
      <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-      <img src="/assets/ch.svg" alt="Chain Icon" width="40" height="40">
+      <img src="/assets/chain.png" alt="Chain Icon" width="50" height="40">
     </a>
     <!-- Vercel -->
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="margin:6px;"/>
-    </a>
+  <a href="https://vercel.com/" rel="noreferrer">
+  <img src="./assets/vercel_triangle_badge_dark_40.png" alt="Vercel" width="40" height="40" />
+</a>
     <!-- SageMaker -->
     <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonsagemaker.svg" alt="SageMaker" width="40" height="40" style="margin:6px; background:#fff; border-radius:6px;"/>
