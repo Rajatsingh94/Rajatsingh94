@@ -64,7 +64,7 @@
     </a>
     <!-- Vercel -->
   <a href="https://vercel.com/" rel="noreferrer">
-  <img src="./assets/vercel_triangle_badge_dark_40.png" alt="Vercel" width="40" height="40" />
+  <img src="./assets/vercel.jpeg" alt="Vercel" width="90" height="70" />
 </a>
     <!-- SageMaker -->
     <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
