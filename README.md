@@ -68,16 +68,16 @@
 </a>
     <!-- SageMaker -->
     <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonsagemaker.svg" alt="SageMaker" width="40" height="40" style="margin:6px; background:#fff; border-radius:6px;"/>
+     <img src="./assets/sage.webp" alt="Vercel" width="60" height="60" />
     </a>
     <!-- Lambda -->
-    <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/awslambda.svg" alt="AWS Lambda" width="40" height="40" style="margin:6px; background:#fff; border-radius:6px;"/>
-    </a>
-    <!-- AWS -->
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" style="margin:6px;"/>
-    </a>
+    <a href="https://aws.amazon.com/lambda/" rel="noreferrer">
+  <img src="./assets/aws_lambda_white.png" alt="AWS Lambda" width="40" height="40" />
+</a>
+<!--AWS--->
+<a href="https://aws.amazon.com/" rel="noreferrer">
+  <img src="./assets/aws_white.png" alt="AWS" width="40" height="40" />
+</a>
     <!-- GCP -->
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" style="margin:6px;"/>
@@ -123,9 +123,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin:6px"/>
     </a>
     <!-- Knowledge Graph (Neo4j as example) -->
-    <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/neo4j.svg" alt="Knowledge Graph" width="40" height="40" style="margin:6px; background:#fff; border-radius:6px;"/>
-    </a>
+   <a href="https://neo4j.com/" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/neo4j/ff6600" alt="Knowledge Graph" width="40" height="40" />
+</a>
   </p>
 </div>
 <!-- ====== End Languages and Tools Section ====== -->
