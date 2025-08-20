@@ -14,7 +14,9 @@
 
 <!-- ====== Languages and Tools Section (Fixed) ====== -->
 <div align="center" style="margin: 18px 0 32px 0;">
-  <h3 align="center" style="margin-bottom: 16px;">Languages and Tools</h3>
+ <p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=18&duration=2500&pause=800&color=FF6600&center=true&vCenter=true&width=480&lines=⚙️+tools%2Flibs." alt="tools/libs." />
+</p>
   <p>
     <!-- Python -->
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -34,7 +36,7 @@
     </a>
     <!-- Node.js -->
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin:6px"/>
+      <img src="/assets/node.png" alt="nodejs" width="50" height="40">
     </a>
     <!-- Rust -->
     <!-- 'R' Logo (Bright Blue & White, visible on dark background) -->
@@ -48,7 +50,7 @@
     </a>
     <!--Express js-->
    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Express.js" width="40" height="40" style="margin:6px; background:#fff; padding:4px; border-radius:8px; box-shadow:0 2px 8px #0002;" />
+   <img src="/assets/ex.png" alt="expressjs" width="50" height="40">
   </a>
     <!-- React.js -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -70,6 +72,7 @@
     <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
      <img src="./assets/sage.webp" alt="Vercel" width="60" height="60" />
     </a>
+    <br>
     <!-- Lambda -->
     <a href="https://aws.amazon.com/lambda/" rel="noreferrer">
       <img src="./assets/aws-lambda.svg" alt="AWS Lambda" width="40" height="40" />
