@@ -12,6 +12,124 @@
   <img src="assets/outpu2t.gif" alt="Terminal Portfolio" width="700">
 </p>
 
+<!-- ====== Languages and Tools Section (Fixed) ====== -->
+<div align="center" style="margin: 18px 0 32px 0;">
+  <h3 align="center" style="margin-bottom: 16px;">Languages and Tools</h3>
+  <p>
+    <!-- Python -->
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- Java -->
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- JavaScript -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- TypeScript -->
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- Node.js -->
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- Rust -->
+    <!-- 'R' Logo (Bright Blue & White, visible on dark background) -->
+   <!-- Bright Blue 'R' PNG (clearly visible on dark backgrounds) -->
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/512px-R_logo.svg.png" alt="R" width="40" height="40" style="margin:6px; background:white; border-radius:6px; padding:2px;"/>
+    </a>
+    <!-- Go -->
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!--Express js-->
+   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Express.js" width="40" height="40" style="margin:6px; background:#fff; padding:4px; border-radius:8px; box-shadow:0 2px 8px #0002;" />
+  </a>
+    <!-- React.js -->
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- Hugging Face -->
+    <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="Hugging Face" width="40" height="40" style="margin:6px; border-radius:8px; background:#fff; padding:2px;" />
+</a>
+    <!-- LangChain (using LC logo) -->
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="/images/chain.png" alt="Chain Icon" width="40" height="40" style="margin:6px; background:#181A20; border-radius:8px; padding:6px;">
+  </a>
+    <!-- Vercel -->
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="margin:6px;"/>
+    </a>
+    <!-- SageMaker -->
+    <a href="https://aws.amazon.com/sagemaker/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonsagemaker.svg" alt="SageMaker" width="40" height="40" style="margin:6px; background:#fff; border-radius:6px;"/>
+    </a>
+    <!-- Lambda -->
+    <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/awslambda.svg" alt="AWS Lambda" width="40" height="40" style="margin:6px; background:#fff; border-radius:6px;"/>
+    </a>
+    <!-- AWS -->
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" style="margin:6px;"/>
+    </a>
+    <!-- GCP -->
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" style="margin:6px;"/>
+    </a>
+    <!-- Docker -->
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- Kubernetes -->
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- GraphQL -->
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- REST API (tabler icon) -->
+    <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/RestApi.svg" alt="REST API" width="40" height="40" style="margin:6px; background:#fff; border-radius:6px;"/>
+    </a>
+    <!-- Apache Kafka -->
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" alt="Kafka" width="40" height="40" style="margin:6px; background:#fff; border-radius:6px;"/>
+    </a>
+    <!-- Unix/Linux -->
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- Git -->
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- Nginx -->
+    <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- Redis -->
+    <a href="https://redis.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- PostgreSQL -->
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin:6px"/>
+    </a>
+    <!-- Knowledge Graph (Neo4j as example) -->
+    <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/neo4j.svg" alt="Knowledge Graph" width="40" height="40" style="margin:6px; background:#fff; border-radius:6px;"/>
+    </a>
+  </p>
+</div>
+<!-- ====== End Languages and Tools Section ====== -->
+
 <!-- collab section -->
 <!-- collab social section -->
 
