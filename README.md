@@ -60,7 +60,7 @@
 </a>
     <!-- LangChain (using LC logo) -->
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="/images/chain.png" alt="Chain Icon" width="40" height="40" style="margin:6px; background:#181A20; border-radius:8px; padding:6px;">
+    <img src="/assets/chain.png" alt="Chain Icon" width="40" height="40" style="margin:6px; background:#ffff; border-radius:8px; padding:6px;">
   </a>
     <!-- Vercel -->
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
